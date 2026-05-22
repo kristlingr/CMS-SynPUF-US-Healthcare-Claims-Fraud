@@ -1,4 +1,4 @@
 This dataset of synthetic claims from CMS contains a range of information, including diagnoses, procedures, prescriptions, and financial data, among others. 
 The dataset originally had 142 columns. I have kept only 43 columns.
 
-As the complete CMS SynPUF dataset is quite extensive, I have opted to download only the initial sample out of the 20 available. Stiil, this 5% sample contains more than 55 million claims and it will crash Kaggle nb on memory. I suggest you read only 10-20M rows while using pandas.
+
